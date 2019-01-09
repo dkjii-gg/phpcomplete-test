@@ -1,0 +1,14 @@
+-R
+
+--fields=+laimS
+--extras=+q
+
+--PHP-kinds=+cf-v
+
+--exclude=*.js
+--exclude=*.phtml
+--exclude=*.html
+
+--languages=php
+
+--output-format=e-ctags
